@@ -10,17 +10,17 @@
 ############################
 
 # Name of website
-title: My Website
+title: Super Star Suhwoo Ahn
 
 # Your name to show in the footer
-author: Some Person
+author: Suhwoo Ahn
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "suhwooahn.github.io"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
