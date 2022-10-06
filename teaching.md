@@ -8,17 +8,17 @@ permalink: /teaching/
 
 **Solo instructor**
 
-   Effects of Mass Communication *(online)* (COM 275) - Taught mass communication theories.  
-   Human Communication *(online)* (COM 100)- Taught public speaking practices.  
+Effects of Mass Communication *(online)* (COM 275) - Taught mass communication theories.  
+Human Communication *(online)* (COM 100)- Taught public speaking practices.  
 
 **Solo taught recitation instructor**
 
-   Methods of Communication Inquiry (COM 300) - Taught methodology and statistics.  
-   Human Communication (COM 100) - Taught public speaking practices.  
+Methods of Communication Inquiry (COM 300) - Taught methodology and statistics.  
+Human Communication (COM 100) - Taught public speaking practices.  
 
 **Teaching assistant**
 
-   Effects of Mass Communication (COM 275)  
+Effects of Mass Communication (COM 275)  
 
 **Students' feedback**
 
