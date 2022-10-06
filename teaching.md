@@ -28,5 +28,5 @@ permalink: /teaching/
 
 "Great job! You did a great job making my public speaking woes go way down. Thankful to have improved on that." (COM 100)
 
-"Suhwoo is tha Man! One of the best TA's I've ever had. He is great." (COM 100)
+"Suhwoo is the Man! One of the best TA's I've ever had. He is great." (COM 100)
 
