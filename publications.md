@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publications
-permalink: /aboutme/
+permalink: /publications/
 ---
 Carnahan, D., Bergan, D. E., Ulusoy, E., Ahn, S., & Barry, R (2022). Assessing the Potential of Partisan Group Cues in Promoting Accurate Beliefs. Mass Communication and Society. https://doi.org/10.1080/15205436.2022.2127367
 
