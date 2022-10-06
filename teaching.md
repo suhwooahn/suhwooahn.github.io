@@ -6,17 +6,17 @@ permalink: /teaching/
 
 **Courses taught at Michigan State University**
 
-*Solo instructor*
+**Solo instructor**
 
-  Effects of Mass Communication *(online)* (COM 275)
-  Human Communication *(online)* (COM 100)
+  Effects of Mass Communication *(online)* (COM 275): Taught mass communication theories.
+  Human Communication *(online)* (COM 100): Taught public speaking practices.
 
-*Solo taught recitation instructor*
+**Solo taught recitation instructor**
 
-  Methods of Communication Inquiry (COM 300)
-  Human Communication (COM 100)
+  Methods of Communication Inquiry (COM 300): Taught methodology and statistics.
+  Human Communication (COM 100): Taught public speaking practices.
 
-*Teaching assistant*
+**Teaching assistant**
 
   Effects of Mass Communication (COM 275)
 
@@ -29,3 +29,4 @@ permalink: /teaching/
 "Great job! You did a great job making my public speaking woes go way down. Thankful to have improved on that." (COM 100)
 
 "Suhwoo is tha Man! One of the best TA's I've ever had. He is great." (COM 100)
+
