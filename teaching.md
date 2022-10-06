@@ -14,7 +14,7 @@ permalink: /teaching/
   Human Communication *(online)* (COM 100)
   I taught public speaking practices and behaviors.
 
-**Solo taught recitationinstructor**
+**Solo taught recitation instructor**
 
   Methods of Communication Inquiry (COM 300)
   I taught communication methodology and statistics in recitations every week.
