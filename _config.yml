@@ -20,11 +20,14 @@ author: Suhwoo Ahn
 ###############################################
 
 navbar-links:
-  About Me: "suhwooahn.github.io"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Home: "suhwooahn.github.io"
+  About Me: 
+    - About: "aboutme/"
+    - Projects: "projects/"
+    - Pubs: "pubs/"
+  Teaching: "teach/"
+  CV: "cv_sp2022_SW.pdf"
+  Resources: "resources/"
 
 ################
 # --- Logo --- #
