@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Super Star Suhwoo Ahn
+title: Suhwoo Ahn, PhD Student in Communication
 
 # Your name to show in the footer
 author: Suhwoo Ahn
@@ -22,7 +22,7 @@ author: Suhwoo Ahn
 navbar-links:
   Home: "suhwooahn.github.io"
   About Me: "aboutme/"
-  Publications: "projects/"
+  Publications: "publications/"
   Teaching: "teach/"
   CV: "cv_sp2022_SW.pdf"
 
