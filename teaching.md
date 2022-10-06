@@ -8,19 +8,19 @@ permalink: /teaching/
 
 Michigan State University
 
-  Instructor in Effects of Mass Communication Online (COM 275)
+  Effects of Mass Communication (COM 275) - *Solo instructor (online)*
   - I taught mass communication theories in summer online class.
 
-  Instructor in Human Communication Online (COM 100)
+  Human Communication (COM 100) - *Solo instructor (online)*
   - I taught public speaking practices and behaviors in summer online class.
 
-  Teaching Assistant in Methods of Communication Inquiry (COM 300)
+  Methods of Communication Inquiry (COM 300) - *Teaching assistant*
   - I taught communication methodology and statistics in recitations every week.
 
-  Teaching Assistant in Effects of Mass Communication (COM 275)
+  Effects of Mass Communication (COM 275) - *Teaching assistant*
   - I helped an instructor managing the class during the semester. I did one gesture lecture.
 
-  Teaching Assistant in Human Communication (COM 100)
+  Human Communication (COM 100) - *Teaching assistant*
   - I taught public speaking practices and behaviors in recitations every week.
 
 **Students' feedback**
