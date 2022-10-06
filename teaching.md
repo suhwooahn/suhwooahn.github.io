@@ -4,24 +4,28 @@ title: Teaching
 permalink: /teaching/
 ---
 
-**Courses taught**
+**Courses taught at Michigan State University**
 
-Michigan State University
+**Solo instructor**
 
-  Effects of Mass Communication (COM 275) - *Solo instructor (online)*
-  - I taught mass communication theories in summer online class.
+  Effects of Mass Communication *(online)* (COM 275)
+  I taught mass communication theories in summer online class.
 
-  Human Communication (COM 100) - *Solo instructor (online)*
-  - I taught public speaking practices and behaviors.
+  Human Communication *(online)* (COM 100)
+  I taught public speaking practices and behaviors.
 
-  Methods of Communication Inquiry (COM 300) - *Teaching assistant*
-  - I taught communication methodology and statistics in recitations every week.
+**Solo taught recitationinstructor**
 
-  Effects of Mass Communication (COM 275) - *Teaching assistant*
-  - I helped an instructor managing the class during the semester. I did one gesture lecture.
+  Methods of Communication Inquiry (COM 300)
+  I taught communication methodology and statistics in recitations every week.
 
-  Human Communication (COM 100) - *Teaching assistant*
-  - I taught public speaking practices and behaviors in recitations every week.
+  Human Communication (COM 100)
+  I taught public speaking practices and behaviors in recitations every week.
+
+**Teaching assistant**
+
+  Effects of Mass Communication (COM 275)
+  I helped an instructor managing the class during the semester and did one gesture lecture.
 
 **Students' feedback**
 
