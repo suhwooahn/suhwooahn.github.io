@@ -8,18 +8,23 @@ permalink: /teaching/
 
 Methods of Communication Inquiry (COM 300)<br>
 *Recitation instructor*
+*Fall 2021, Fall 2021*
 
 Effects of Mass Communication *(online)* (COM 275)<br>
 *Solo instructor*
+*Summer 2022*
 
 Effects of Mass Communication (COM 275)<br>
 *Teaching assistant*
+*Spring 2022*
 
 Human Communication *(online)* (COM 100)<br>
 *Solo instructor*
+*Summer 2020, Summer 2021*
 
 Human Communication (COM 100)<br>
 *Recitation instructor*
+*Fall 2019, Spring 2020, Fall 2020, Spring 2021*
 
 **Students' feedback**
 
