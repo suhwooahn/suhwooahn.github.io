@@ -6,19 +6,19 @@ permalink: /teaching/
 
 **Courses taught at Michigan State University**
 
-Methods of Communication Inquiry (COM 300)
+Methods of Communication Inquiry (COM 300)<br>
 *Recitation instructor*
 
-Effects of Mass Communication *(online)* (COM 275)
+Effects of Mass Communication *(online)* (COM 275)<br>
 *Solo instructor*
 
-Effects of Mass Communication (COM 275)
+Effects of Mass Communication (COM 275)<br>
 *Teaching assistant*
 
-Human Communication *(online)* (COM 100)
+Human Communication *(online)* (COM 100)<br>
 *Solo instructor*
 
-Human Communication (COM 100)
+Human Communication (COM 100)<br>
 *Recitation instructor*
 
 **Students' feedback**
