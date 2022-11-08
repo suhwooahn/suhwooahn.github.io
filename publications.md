@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 Carnahan, D., **Ahn, S.**, & Turner, M. M. (in-press). The Madness of Misperceptions: Evaluating the Ways Anger Contributes to Misinformed Beliefs. *Journal of Communication*.
 
-Ma, S., Bergan, D., Carnahan, D., **Ahn, S.**, Virtue, I., & Mcgraw, J. (in-press). The Influence of Fact-Checking on Policymaker Social Media Posts about the Trump Impeachment: A Field Experimental Replication. *Human Communication Research*.
+Ma, S., Bergan, D., Carnahan, D., **Ahn, S.**, Virtue, I., & Mcgraw, J. (in-press). Fact-Checking as a Deterrent? A Conceptual Replication of the Influence of Fact-Checking on the Sharing of Misinformation by Political Elites. *Human Communication Research*.
 
 Carnahan, D., Bergan, D. E., Ulusoy, E., **Ahn, S.**, & Barry, R (2022). Assessing the Potential of Partisan Group Cues in Promoting Accurate Beliefs. *Mass Communication and Society*. https://doi.org/10.1080/15205436.2022.2127367
 
