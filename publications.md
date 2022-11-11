@@ -7,7 +7,7 @@ Carnahan, D., **Ahn, S.**, & Turner, M. M. (in-press). The Madness of Mispercept
 
 Ma, S., Bergan, D., Carnahan, D., **Ahn, S.**, Virtue, I., & Mcgraw, J. (in-press). Fact-Checking as a Deterrent? A Conceptual Replication of the Influence of Fact-Checking on the Sharing of Misinformation by Political Elites. *Human Communication Research*.
 
-Carnahan, D., Bergan, D. E., Ulusoy, E., **Ahn, S.**, & Barry, R (2022). Assessing the Potential of Partisan Group Cues in Promoting Accurate Beliefs. *Mass Communication and Society*. https://doi.org/10.1080/15205436.2022.2127367
+Carnahan, D., Bergan, D. E., Ulusoy, E., **Ahn, S.**, & Wade, R. B. (2022). Assessing the Potential of Partisan Group Cues in Promoting Accurate Beliefs. *Mass Communication and Society*. https://doi.org/10.1080/15205436.2022.2127367
 
 **Ahn S.**, Lee, C., & Ko, Y. (2022). Network Social Capital and Health Information Acquisition. *Patient Education and Counseling, 105*(9), 2923-2933. https://doi.org/10.1016/j.pec.2022.05.007
 
