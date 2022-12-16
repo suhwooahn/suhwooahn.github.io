@@ -3,7 +3,7 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
-Ma, S., Bergan, D., Carnahan, D., **Ahn, S.**, Virtue, I., & Mcgraw, J. (in-press). Fact-Checking as a Deterrent? A Conceptual Replication of the Influence of Fact-Checking on the Sharing of Misinformation by Political Elites. *Human Communication Research*.
+Ma, S., Bergan, D., **Ahn, S.**, Carnahan, D., Gimby, N., Virtue, I., & Mcgraw, J. (2022). Fact-Checking as a Deterrent? A Conceptual Replication of the Influence of Fact-Checking on the Sharing of Misinformation by Political Elites. *Human Communication Research*. https://doi.org/10.1093/hcr/hqac031
 
 Carnahan, D., **Ahn, S.**, & Turner, M. M. (2022). The Madness of Misperceptions: Evaluating the Ways Anger Contributes to Misinformed Beliefs. *Journal of Communication*. https://doi.org/10.1093/joc/jqac041
 
