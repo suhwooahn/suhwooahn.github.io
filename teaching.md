@@ -25,6 +25,8 @@ Human Communication (COM 100)<br>
 
 "I just wanted to say that Suhwoo was an excellent TA! He really cared about the students learning and went above what a TA would usually do." (COM 300)
 
+"The teaching assistant did a good job of making sure the students understood the material in this course." (COM 300)
+
 "Suhwoo was a good TA very prompt with emails very kind and wanted everyone to succeed. Always helpful and gave beneficial feedback." (COM 100)
 
 "Great job! You did a great job making my public speaking woes go way down. Thankful to have improved on that." (COM 100)
