@@ -4,6 +4,6 @@ title: About Me
 permalink: /aboutme/
 ---
 
-Suhwoo Ahn is a fourth-year doctoral student in the Department of Communication at Michigan State University. Suhwoo is advised by Dr. Dustin Carnahan.
+Suhwoo Ahn is a doctoral candidate on the job market in the Department of Communication at Michigan State University. Suhwoo is advised by Dr. Dustin Carnahan.
 
-Suhwoo's research focuses on citizens' engagement with political and scientific information, and its impact on their attitudes and behaviors. He studies political polarization, correction of misinformation, and social disparities in communication. He is also interested in applying computational methods in examining communication phenomena. His work has been published in journals such as *Journal of Communication*, *Communication Monographs*, *Patient Education and Counseling* and *Journal of Political Marketing*.
+Suhwoo's research focuses on citizens' engagement with political information, and its impact on their attitudes and behaviors. He studies partisan news use, correction of misinformation, and political polarization. He is also interested in applying computational methods in examining communication phenomena. His work has been published in journals such as *Journal of Communication*, *Communication Monographs*, *Patient Education and Counseling* and *Journal of Political Marketing*.
