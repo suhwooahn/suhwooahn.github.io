@@ -7,7 +7,7 @@ permalink: /teaching/
 **Courses taught at Michigan State University**
 
 Methods of Communication Inquiry (COM 300)<br>
-*Recitation instructor (Fall 2021, Fall 2022, Spring 2023)*
+*Recitation instructor (Fall 2021, Fall 2022, Spring 2023, Fall 2023)*
 
 Effects of Mass Communication *(online)* (COM 275)<br>
 *Solo instructor (Summer 2022)*
