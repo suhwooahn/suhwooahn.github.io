@@ -10,7 +10,7 @@ Methods of Communication Inquiry (COM 300)<br>
 *Recitation instructor (Fall 2021, Fall 2022, Spring 2023, Fall 2023)*
 
 Effects of Mass Communication (COM 275)<br>
-*Solo instructor (Summer 2022)*
+*Solo instructor (Summer 2022)*<br>
 *Teaching assistant (Spring 2022)*
 
 Human Communication (COM 100)<br>
