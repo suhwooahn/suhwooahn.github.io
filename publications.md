@@ -3,6 +3,8 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
+**Ahn, S.**, Lee, C., & Bae, I. (in press). Does Patients' Electronic Health Record Use Facilitate Patient-Centered Communication? An Analysis of the 2017 Health Information National Trends Survey. *Journal of Medical Internet Research*.
+
 **Ahn, S.**, Bergan, D. E., Ma, S. & Carnahan, D. (2023). Estimating the Impact of Immediate Versus Delayed Corrections on Belief Accuracy. *Communication Monographs, 90*(3). 372-392. https://doi.org/10.1080/03637751.2023.2202728
 
 Carnahan, D., **Ahn, S.**, & Turner, M. M. (2023). The Madness of Misperceptions: Evaluating the Ways Anger Contributes to Misinformed Beliefs. *Journal of Communication, 73*(1), 60-72. https://doi.org/10.1093/joc/jqac041
