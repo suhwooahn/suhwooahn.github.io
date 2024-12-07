@@ -3,6 +3,10 @@ layout: page
 title: Teaching
 permalink: /teaching/
 ---
+**Courses taught at the University of Minnesota, Twin Cities**
+
+Media and Politics (JOUR 3786)<br>
+*Instructor of Record (Fall 2024)*<br>
 
 **Courses taught at Michigan State University**
 
