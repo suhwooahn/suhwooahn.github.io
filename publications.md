@@ -3,6 +3,8 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
+**Ahn, S.**, & Carnahan, D. (in press). How Does Emphasizing Bipartisan Agreement Reduce Affective Polarization? Examining Three Dimensions of Perceived Similarity as Mediators. *Journal of Broadcasting & Electronic Media*.
+
 **Ahn, S.**, Lee, C., & Bae, I. (2024). Patients’ Use of Electronic Health Records Facilitates Patient-Centered Communication: Findings From the 2017 Health Information National Trends Survey. *Journal of Medical Internet Research, 26*, e50476. http://dx.doi.org/10.2196/50476
 
 **Ahn, S.**, Bergan, D. E., Ma, S. & Carnahan, D. (2023). Estimating the Impact of Immediate Versus Delayed Corrections on Belief Accuracy. *Communication Monographs, 90*(3). 372-392. https://doi.org/10.1080/03637751.2023.2202728
