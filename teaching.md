@@ -3,12 +3,19 @@ layout: page
 title: Teaching
 permalink: /teaching/
 ---
-**Courses taught at the University of Minnesota, Twin Cities**
+**Kookmin University, Seoul, Republic of Korea**
+
+Introduction to Communication *(Spring 2025)*<br>
+Media and Information *(Spring 2025)*
+Artificial Intelligence and Media *(Fall 2025)*
+*Assistant Professor*<br>
+
+**University of Minnesota - Twin Cities, Minneapolis, MN**
 
 Media and Politics (JOUR 3786)<br>
 *Instructor of Record (Fall 2024)*<br>
 
-**Courses taught at Michigan State University**
+**Michigan State University, East Lansing, MI**
 
 Effects of Mass Communication (COM 275)<br>
 *Instructor of Record (Summer 2022)*<br>
@@ -21,6 +28,10 @@ Human Communication (COM 100)<br>
 *Recitation instructor (Fall 2019, Spring 2020, Fall 2020, Spring 2021)*
 
 **Students' feedback**
+
+"Suhwoo has a wealth of knowledge about scholarly communication, comes to his lectures well prepared and engaged in current affairs of relevance" (JOUR 3786)
+
+"I gained a more holistic perspective of topics when he related certain concepts to his knowledge of and experience with South Korean politics." (JOUR 3786)
 
 "I just wanted to say that Suhwoo was an excellent TA! He really cared about the students learning and went above what a TA would usually do." (COM 300)
 
