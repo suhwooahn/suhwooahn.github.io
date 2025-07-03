@@ -6,8 +6,8 @@ permalink: /teaching/
 **Kookmin University, Seoul, Republic of Korea**
 
 Introduction to Communication *(Spring 2025)*<br>
-Media and Information *(Spring 2025)*
-Artificial Intelligence and Media *(Fall 2025)*
+Media and Information *(Spring 2025)*<br>
+Artificial Intelligence and Media *(Fall 2025)*<br>
 *Assistant Professor*<br>
 
 **University of Minnesota - Twin Cities, Minneapolis, MN**
