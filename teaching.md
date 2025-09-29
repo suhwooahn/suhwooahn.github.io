@@ -5,9 +5,10 @@ permalink: /teaching/
 ---
 **Kookmin University, Seoul, Republic of Korea**
 
+Artificial Intelligence and Media *(Fall 2025)*<br>
+Graduate: Audience Analysis *(Fall 2025)*<br>
 Introduction to Communication *(Spring 2025)*<br>
 Media and Information *(Spring 2025)*<br>
-Artificial Intelligence and Media *(Fall 2025)*<br>
 *Assistant Professor*<br>
 
 **University of Minnesota - Twin Cities, Minneapolis, MN**
@@ -19,7 +20,6 @@ Media and Politics (JOUR 3786)<br>
 
 Effects of Mass Communication (COM 275)<br>
 *Instructor of Record (Summer 2022)*<br>
-*Teaching assistant (Spring 2022)*
 
 Methods of Communication Inquiry (COM 300)<br>
 *Recitation instructor (Fall 2021, Fall 2022, Spring 2023, Fall 2023)*
