@@ -11,12 +11,12 @@ Introduction to Communication *(Spring 2025)*<br>
 Media and Information *(Spring 2025)*<br>
 *Assistant Professor*<br>
 
-**University of Minnesota - Twin Cities, Minneapolis, MN**
+**University of Minnesota - Twin Cities, Minneapolis, Minnesota, USA**
 
 Media and Politics (JOUR 3786)<br>
 *Instructor of Record (Fall 2024)*<br>
 
-**Michigan State University, East Lansing, MI**
+**Michigan State University, East Lansing, Michigan, USA**
 
 Effects of Mass Communication (COM 275)<br>
 *Instructor of Record (Summer 2022)*<br>
