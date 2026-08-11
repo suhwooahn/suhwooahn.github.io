@@ -5,10 +5,11 @@ permalink: /teaching/
 ---
 **Kookmin University, Seoul, Republic of Korea**
 
-Artificial Intelligence and Media *(Fall 2025)*<br>
-Graduate: Audience Analysis *(Fall 2025)*<br>
-Introduction to Communication *(Spring 2025)*<br>
+Introduction to Communication *(Spring 2025, Spring 2026)*<br>
+Methods of Communication Inquiry (Fall 2026)<br>
+Artificial Intelligence and Media *(Fall 2025, Fall 2026)*<br>
 Media and Information *(Spring 2025)*<br>
+Graduate Seminar: Audience Analysis *(Fall 2025)*<br>
 *Assistant Professor*<br>
 
 **University of Minnesota - Twin Cities, Minneapolis, Minnesota, USA**
