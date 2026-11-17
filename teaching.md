@@ -5,28 +5,28 @@ permalink: /teaching/
 ---
 **Kookmin University, Seoul, Republic of Korea**
 
-Introduction to Communication *(Spring 2025, Spring 2026)*<br>
-Methods of Communication Inquiry (Fall 2026)<br>
-Artificial Intelligence and Media *(Fall 2025, Fall 2026)*<br>
-Media and Information *(Spring 2025)*<br>
-Graduate Seminar: Audience Analysis *(Fall 2025)*<br>
+Introduction to Communication<br>
+Methods of Communication Inquiry<br>
+Artificial Intelligence and Media<br>
+Media and Information<br>
+Graduate Seminar: Audience Analysis<br>
 *Assistant Professor*<br>
 
 **University of Minnesota - Twin Cities, Minneapolis, Minnesota, USA**
 
 Media and Politics (JOUR 3786)<br>
-*Instructor of Record (Fall 2024)*<br>
+*Instructor of Record*<br>
 
 **Michigan State University, East Lansing, Michigan, USA**
 
 Effects of Mass Communication (COM 275)<br>
-*Instructor of Record (Summer 2022)*<br>
+*Instructor of Record*<br>
 
 Methods of Communication Inquiry (COM 300)<br>
-*Recitation Instructor (Fall 2021, Fall 2022, Spring 2023, Fall 2023)*
+*Recitation Instructor*
 
 Human Communication (COM 100)<br>
-*Recitation Instructor (Fall 2019, Spring 2020, Fall 2020, Spring 2021)*
+*Recitation Instructor*
 
 **Students' feedback**
 
